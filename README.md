@@ -1,2 +1,2 @@
 # Trojans-Source-Code
-Repositorio con códigos de troyanos
+Repositorio con códigos de troyanos que se han lekeado!
